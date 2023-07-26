@@ -1,66 +1,73 @@
 {
-    "Arimo": {},
-    "CascadiaCode": {
-        "name": "Cascadia Code",
-        "regular": "Regular/CaskaydiaCoveNerdFont-Regular.ttf",
-        "bold": "Regular/CaskaydiaCoveNerdFont-Regular.ttf",
-        "italic": "Regular/CaskaydiaCoveNerdFont-Regular.ttf",
-        "bold_italic": "Regular/CaskaydiaCoveNerdFont-Regular.ttf"
-    },
-    "Cousine": {
-        "bold_italic": "BoldItalic/CousineNerdFont-BoldItalic.ttf"
-    },
-    "DejaVuSansMono": {
-        "name": "DejaVu Sans Mono",
-        "regular": "Regular/DejaVuSansMNerdFont-Regular.ttf",
-        "bold": "Bold/DejaVuSansMNerdFont-Bold.ttf",
-        "italic": "Italic/DejaVuSansMNerdFont-Oblique.ttf",
-        "bold_italic": "Bold-Italic/DejaVuSansMNerdFont-BoldOblique.ttf"
-    },
-    "FiraCode": {
-        "name": "Fira Code",
-        "italic": "Regular/FiraCodeNerdFont-Regular.ttf",
-        "bold_italic":"Bold/FiraCodeNerdFont-Bold.ttf"
-    },
-    "Hack": {
-        "bold_italic": "BoldItalic/HackNerdFont-BoldItalic.ttf"
-    },
-    "IBMPlexMono": {
-        "name": "IBM Plex Mono",
-        "regular": "Mono/BlexMonoNerdFont-Regular.ttf",
-        "bold": "Mono/BlexMonoNerdFont-Bold.ttf",
-        "italic": "Mono/BlexMonoNerdFont-Italic.ttf",
-        "bold_italic": "Mono/BlexMonoNerdFont-BoldItalic.ttf"
-    },
-    "IosevkaTerm": {
-        "name": "Iosevka Term"
-    },
-    "JetBrainsMono": {
-        "name": "JetBrains Mono",
-        "regular": "Ligatures/Regular/JetBrainsMonoNerdFont-Regular.ttf",
-        "bold": "Ligatures/Bold/JetBrainsMonoNerdFont-Bold.ttf",
-        "italic": "Ligatures/Italic/JetBrainsMonoNerdFont-Italic.ttf",
-        "bold_italic": "Ligatures/BoldItalic/JetBrainsMonoNerdFont-BoldItalic.ttf"
-    },
-    "LiberationMono": {
-        "name": "Liberation Mono",
-        "regular": "LiterationMonoNerdFont-Regular.ttf",
-        "bold": "LiterationMonoNerdFont-Bold.ttf",
-        "italic": "LiterationMonoNerdFont-Italic.ttf",
-        "bold_italic": "LiterationMonoNerdFont-BoldItalic.ttf"
-    },
-    "Mononoki": {
-        "name": "mononoki"
-    },
-    "SourceCodePro": {
-        "name": "Sauce Code Pro",
-        "regular": "Regular/SauceCodeProNerdFont-Regular.ttf",
-        "bold": "Bold/SauceCodeProNerdFont-Bold.ttf",
-        "italic": "Italic/SauceCodeProNerdFont-Italic.ttf",
-        "bold_italic": "Bold-Italic/SauceCodeProNerdFont-BoldItalic.ttf"
-    },
-    "UbuntuMono": {
-        "name": "Ubuntu Mono",
-        "italic": "Regular-Italic/UbuntuMonoNerdFont-Italic.ttf"
-    }
+  "Arimo": {},
+  "CascadiaCode": {
+    "name": "Cascadia Code",
+    "regular": "Regular/CaskaydiaCoveNerdFont-Regular.ttf",
+    "bold": "Regular/CaskaydiaCoveNerdFont-Regular.ttf",
+    "italic": "Regular/CaskaydiaCoveNerdFont-Regular.ttf",
+    "bold_italic": "Regular/CaskaydiaCoveNerdFont-Regular.ttf"
+  },
+  "Cousine": {
+    "bold_italic": "BoldItalic/CousineNerdFont-BoldItalic.ttf"
+  },
+  "DejaVuSansMono": {
+    "name": "DejaVu Sans Mono",
+    "regular": "Regular/DejaVuSansMNerdFont-Regular.ttf",
+    "bold": "Bold/DejaVuSansMNerdFont-Bold.ttf",
+    "italic": "Italic/DejaVuSansMNerdFont-Oblique.ttf",
+    "bold_italic": "Bold-Italic/DejaVuSansMNerdFont-BoldOblique.ttf"
+  },
+  "FiraCode": {
+    "name": "Fira Code",
+    "italic": "Regular/FiraCodeNerdFont-Regular.ttf",
+    "bold_italic": "Bold/FiraCodeNerdFont-Bold.ttf"
+  },
+  "Hack": {
+    "bold_italic": "BoldItalic/HackNerdFont-BoldItalic.ttf"
+  },
+  "IBMPlexMono": {
+    "name": "IBM Plex Mono",
+    "regular": "Mono/BlexMonoNerdFont-Regular.ttf",
+    "bold": "Mono/BlexMonoNerdFont-Bold.ttf",
+    "italic": "Mono/BlexMonoNerdFont-Italic.ttf",
+    "bold_italic": "Mono/BlexMonoNerdFont-BoldItalic.ttf"
+  },
+  "IosevkaTerm": {
+    "name": "Iosevka Term"
+  },
+  "JetBrainsMono": {
+    "name": "JetBrains Mono",
+    "regular": "Ligatures/Regular/JetBrainsMonoNerdFont-Regular.ttf",
+    "bold": "Ligatures/Bold/JetBrainsMonoNerdFont-Bold.ttf",
+    "italic": "Ligatures/Italic/JetBrainsMonoNerdFont-Italic.ttf",
+    "bold_italic": "Ligatures/BoldItalic/JetBrainsMonoNerdFont-BoldItalic.ttf"
+  },
+  "LiberationMono": {
+    "name": "Liberation Mono",
+    "regular": "LiterationMonoNerdFont-Regular.ttf",
+    "bold": "LiterationMonoNerdFont-Bold.ttf",
+    "italic": "LiterationMonoNerdFont-Italic.ttf",
+    "bold_italic": "LiterationMonoNerdFont-BoldItalic.ttf"
+  },
+  "Meslo": {
+    "name": "MesloLGS",
+    "regular": "S/Regular/MesloLGSNerdFont-Regular.ttf",
+    "bold": "S/Bold/MesloLGSNerdFont-Bold.ttf",
+    "italic": "S/Italic/MesloLGSNerdFont-Italic.ttf",
+    "bold_italic": "S/Bold-Italic/MesloLGSNerdFont-BoldItalic.ttf"
+  },
+  "Mononoki": {
+    "name": "mononoki"
+  },
+  "SourceCodePro": {
+    "name": "Sauce Code Pro",
+    "regular": "Regular/SauceCodeProNerdFont-Regular.ttf",
+    "bold": "Bold/SauceCodeProNerdFont-Bold.ttf",
+    "italic": "Italic/SauceCodeProNerdFont-Italic.ttf",
+    "bold_italic": "Bold-Italic/SauceCodeProNerdFont-BoldItalic.ttf"
+  },
+  "UbuntuMono": {
+    "name": "Ubuntu Mono",
+    "italic": "Regular-Italic/UbuntuMonoNerdFont-Italic.ttf"
+  }
 }
